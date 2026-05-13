@@ -1,6 +1,6 @@
-# Hi there, I'm Chandra Kiran Reddy! ðŸ‘‹
+# Hi there, I'm Chandra Kiran Reddy! &#128075;
 
-ðŸŒ Based in India | ðŸ’¡ Passionate about building scalable AI systems, healthcare SaaS, and backend platforms
+&#127757; Based in India | &#128161; Passionate about building scalable AI systems, healthcare SaaS, and backend platforms
 
 *AI/ML Engineer | Backend Developer | Full-Stack Engineer | Cloud & DevOps Enthusiast | Open Source Learner*
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a serious builder focused on production-grade 
 
 ---
 
-## ðŸ›  Technologies & Tools
+## &#128736; Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,fastapi,go,java,postgres,mongodb,redis,docker,kubernetes,aws,gcp,azure,git,github,linux,tensorflow,pytorch,vscode" alt="Technologies and tools" />
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a serious builder focused on production-grade 
 
 ---
 
-## ðŸ¤ Let's Connect!
+## &#129309; Let's Connect!
 
 I'm always open to collaborating on interesting projects, healthcare technology, AI systems, backend APIs, and cloud-native products.
 
@@ -42,7 +42,7 @@ I'm always open to collaborating on interesting projects, healthcare technology,
 
 ---
 
-## ðŸŽ‰ Fun Fact
+## &#127881; Fun Fact
 
 I treat API latency like a puzzle: every cache hit, query plan, and clean interface is a small win.
 
@@ -77,7 +77,7 @@ me.say_hi()
 
 ---
 
-## ðŸš€ Featured Projects
+## &#128640; Featured Projects
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
@@ -88,7 +88,7 @@ me.say_hi()
 
 ---
 
-## ðŸ“Š GitHub Activity
+## &#128202; GitHub Activity
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chandra0013&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
@@ -100,7 +100,7 @@ me.say_hi()
 
 ---
 
-## ðŸŒ± Currently Exploring
+## &#127793; Currently Exploring
 
 AI Agents | RAG Pipelines | System Design | Kubernetes | Cloud-Native Architectures | LLM Engineering
 
