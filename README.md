@@ -1,16 +1,28 @@
-## Hi there 👋
+## Chandra Kiran Reddy
 
-<!--
-**chandra0013/chandra0013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack & AI Engineer  .  M.Tech CSE @ VIT Vellore (2027)**
 
-Here are some ideas to get you started:
+I build production-grade systems at the intersection of intelligent backends,
+real-time APIs, and healthcare technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I build
+
+- Scalable REST APIs and backend services handling millions of records
+- React/TypeScript frontends backed by high-throughput data pipelines
+- AI-native platforms with LLM orchestration, RAG, and knowledge graphs
+- MLOps and CI/CD infrastructure for model deployment at cloud scale
+
+### Stack
+
+TypeScript  .  Python  .  React  .  FastAPI  .  PostgreSQL  .  Docker  .  AWS  .  Azure  .  LangChain  .  LangGraph  .  CI/CD  .  Git
+
+### Currently
+
+- AI Developer Intern @ DAIRA EdTech - building Jiveesha, a Govt. of India neurodevelopmental screening platform
+- M.Tech CSE + Business Analytics @ VIT Vellore - CGPA 9.27 / 10
+
+### Contact
+
+mandla.chandra2022@vitstudent.ac.in  .  LinkedIn  .  Portfolio
